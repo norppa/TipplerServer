@@ -1,0 +1,23 @@
+{
+  "name": "tipplerserver",
+  "version": "0.0.1",
+  "description": "A backend server for Tippler app",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norppa/TipplerServer.git"
+  },
+  "author": "Jari Haavisto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norppa/TipplerServer/issues"
+  },
+  "homepage": "https://github.com/norppa/TipplerServer#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
